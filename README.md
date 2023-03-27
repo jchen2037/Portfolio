@@ -1,15 +1,14 @@
-# Portfolio
-
-Johnny's Portfolio
+# Johnny's Portfolio
 
 Welcome to my portfolio! This is a collection of some of my best projects that I've worked on. Here you'll find my personal projects and projects I've worked on for clients.
 
-Table of Contents
-About Me
-Projects
-Skills
-Contact Me
-About Me
+## Table of Contents
+* [About Me](#about-me)
+* [Projects](#projects)
+* [Skills](#skills)
+* [Contact Me](#contact-me)
+
+## About Me <a name="about-me"></a>
 
 Hello, my name is Johnny and I graduated with a Bachelor's degree in Accounting and Finance from University of New Hampshire. I discovered my interest in programming and have been learning various programming languages ever since. While I don't have any professional experience yet, I'm excited to start my career in the field and have been working hard to improve my skills and knowledge. I am eager to learn and apply my skills to real-world scenarios.
 
@@ -27,32 +26,30 @@ My goal is to become a proficient programmer and use my skills to create innovat
 
 Thank you for taking the time to read my "About Me" section. If you'd like to connect with me or learn more about my skills and experience, please feel free to contact me using the information in the "Contact Me" section below.
 
-Projects
+## Projects <a name="projects"></a>
+
 Here are some of the projects that I've worked on:
 
-Project 1: Project TBD - 
-Project 2: Project TBD - 
-Project 3: Project TBD - 
+* Project 1: Project TBD - Brief description of the project
+* Project 2: Project TBD - 
+* Project 3: Project TBD - 
 
-Skills
+## Skills <a name="skills"></a>
 
-Python programming: proficiency in Python syntax, data structures, functions, and object-oriented programming. Knowledge of advanced topics such as data analysis, machine learning, and web development
+* **Python programming**: proficiency in Python syntax, data structures, functions, and object-oriented programming. Knowledge of advanced topics such as data analysis, machine learning, and web development
 
-Git and version control: understanding of Git workflow, version control, and collaboration on GitHub or GitLab.
+* **Git and version control**: understanding of Git workflow, version control, and collaboration on GitHub or GitLab.
 
-Problem-solving and critical thinking: ability to analyze and solve complex problems using logical reasoning and creative thinking.
+* **Problem-solving and critical thinking**: ability to analyze and solve complex problems using logical reasoning and creative thinking.
 
-Communication and collaboration: ability to communicate technical concepts effectively to both technical and non-technical audiences. Experience working in collaborative environments and with remote teams.
+* **Communication and collaboration**: ability to communicate technical concepts effectively to both technical and non-technical audiences. Experience working in collaborative environments and with remote teams.
 
-Contact Me
+## Contact Me <a name="contact-me"></a>
 
-Email: Jchen2037@gmail.com
-LinkedIn: TBD
-GitHub: https://github.com/jchen2037
+* Email: Jchen2037@gmail.com
+* LinkedIn: TBD
+* GitHub: https://github.com/jchen2037
 
 I'm always open to new opportunities and collaborations, so please don't hesitate to get in touch. I look forward to hearing from you!
 
 Thank you for taking the time to check out my portfolio! If you have any questions or would like to get in touch with me, please feel free to contact me using the information above.
-
-
-
