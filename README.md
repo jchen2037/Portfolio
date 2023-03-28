@@ -12,7 +12,7 @@ Welcome to my portfolio! This is a collection of some of my best projects that I
 
 Hello, my name is Johnny and I graduated with a Bachelor's degree in Accounting and Finance from University of New Hampshire. I discovered my interest in programming and have been learning various programming languages ever since. While I don't have any professional experience yet, I'm excited to start my career in the field and have been working hard to improve my skills and knowledge. I am eager to learn and apply my skills to real-world scenarios.
 
-I'm passionate about accounting and enjoy learning about financial statements, taxation, and auditing. I'm also interested in learning how technology can be used to improve accounting processes and am currently learning programming languages such as Python and R to apply these skills in my future career.
+I'm passionate about accounting and enjoy learning about financial statements, taxation, and auditing. I'm also interested in learning how technology can be used to improve accounting processes and am currently learning programming languages such as Python and SQL to apply these skills in my future career.
 
 In my studies, I gained a solid understanding of financial accounting, managerial accounting, financial management, and other core topics in the field. As a newcomer to the tech industry, I'm excited to apply my analytical and problem-solving skills to the world of programming. I'm currently learning the fundamentals of programming, including data structures, algorithms, and web development. I'm also working on personal projects to gain hands-on experience and improve my skills.
 
