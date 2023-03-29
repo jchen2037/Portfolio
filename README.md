@@ -10,7 +10,7 @@ Welcome to my portfolio! This is a collection of some of my best projects that I
 
 ## About Me <a name="about-me"></a>
 
-Hello, my name is Johnny and I graduated with a Bachelor's degree in Accounting and Finance from University of New Hampshire. I discovered my interest in programming and have been learning various programming languages ever since. While I don't have any professional experience yet, I'm excited to start my career in the field and have been working hard to improve my skills and knowledge. I am eager to learn and apply my skills to real-world scenarios.
+Hello, my name is Johnny and I graduated with a Bachelor's degree in Accounting and Finance from the University of New Hampshire. I discovered my interest in programming and have been learning various programming languages ever since. While I don't have any professional experience yet, I'm excited to start my career in the field and have been working hard to improve my skills and knowledge. I am eager to learn and apply my skills to real-world scenarios.
 
 I'm passionate about accounting and enjoy learning about financial statements, taxation, and auditing. I'm also interested in learning how technology can be used to improve accounting processes and am currently learning programming languages such as Python and SQL to apply these skills in my future career.
 
@@ -22,7 +22,7 @@ In addition to my academic studies, I've been participating in online courses an
 
 In my free time, I enjoy taking online courses and working on personal projects to build my skills. I am currently working on developing my data analysis and visualization skills through projects related to financial data. I am also interested in exploring the intersection of finance and technology, including emerging trends such as blockchain and cryptocurrencies.
 
-My goal is to become a proficient programmer and use my skills to create innovative solutions that make a positive impact on the world. I'm a quick learner and a dedicated team player, and I'm looking forward to starting my career in accounting.
+My goal is to become a proficient programmer and use my skills to create innovative solutions that make a positive impact on the world. I'm a quick learner and a dedicated team player, and I'm looking forward to starting my career in programming.
 
 Thank you for taking the time to read my "About Me" section. If you'd like to connect with me or learn more about my skills and experience, please feel free to contact me using the information in the "Contact Me" section below.
 
